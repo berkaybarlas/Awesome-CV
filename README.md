@@ -14,13 +14,13 @@
   <a href="https://barlas.xyz">
     <img alt="My website" src="https://img.shields.io/badge/barlas-.xyz-blue.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf">
+  <a href="https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf">
     <img alt="My Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
+  <a href="https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/cv.pdf">
     <img alt="My CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
+  <a href="https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/coverletter.pdf">
     <img alt="My Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
   </a>
 </div>
