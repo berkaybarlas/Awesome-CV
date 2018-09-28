@@ -31,6 +31,16 @@
 
 **Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv). It is easy to customize your own template, especially since it is really written by a clean, semantic markup.
 
+## Preview
+
+#### Résumé
+
+You can see [PDF](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf)
+
+| Page. 1 | Page. 2 |
+|:---:|:---:|
+| [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-0.png)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-1.png)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf) |
+
 ## Credit
 
 [**LaTeX**](http://www.latex-project.org) is a fantastic typesetting program that a lot of people use these days, especially the math and computer science people in academia.
