@@ -35,7 +35,7 @@
 
 You can see [PDF](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf)
 
-| Page. 1 | Page. 2 |
+| CV | Resume |
 |:---:|:---:|
 | [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-0.png)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-1.png)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf) |
 
