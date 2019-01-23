@@ -37,7 +37,7 @@ You can see [PDF](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/mast
 
 | CV | Resume |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-0.png)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-1.png)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf) |
+| [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-0.jpg)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume-1.jpg)](https://raw.githubusercontent.com/berkaybarlas/Awesome-CV/master/documents/resume.pdf) |
 
 ## Credit
 **Awesome CV** is LaTeX template for a **CV(Curriculum Vitae)**, **Résumé** or **Cover Letter** inspired by [Fancy CV](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv).
